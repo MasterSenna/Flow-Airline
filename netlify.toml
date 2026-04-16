@@ -3,7 +3,7 @@
   publish = "dist/app/browser"
 
 [functions]
-  directory = "dist/app/server"
+  directory = "netlify/functions"
 
 [[plugins]]
   package = "@netlify/angular-runtime"

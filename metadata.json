@@ -1,0 +1,6 @@
+{
+  "name": "SkyFlow Airline",
+  "description": "A modern airline ticket purchase and check-in platform built with Angular, featuring flight search, booking flow, and user dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

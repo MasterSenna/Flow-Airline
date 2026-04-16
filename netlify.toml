@@ -5,6 +5,9 @@
 [functions]
   directory = "dist/app/server"
 
+[[plugins]]
+  package = "@netlify/angular-runtime"
+
 [[redirects]]
   from = "/*"
   to = "/index.html"
